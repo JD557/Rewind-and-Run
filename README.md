@@ -5,6 +5,8 @@ Game developed for [Ludum Dare 27](http://www.ludumdare.com/compo/ludum-dare-27/
 
 [Game page](http://www.ludumdare.com/compo/ludum-dare-27/?action=preview&uid=9253)
 
+*Warning:* As expected from a 48h competition entry, the quality of this code might hurt your eyes.
+
 Description
 -----------
 
