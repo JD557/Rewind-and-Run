@@ -16,12 +16,14 @@ Using your mastery of time and your incredible jump skills, you must pass variou
 
 Also, you are always running forward, so make sure you don't fall behind or you'll lose. 
 
-Keys: 
-Up - Jump 
-Left - Rewind 
-Down - Pause 
-Right - Play 
-Space bar - Skip Level Intro* 
+Keys
+----
+
+- Up - Jump 
+- Left - Rewind 
+- Down - Pause 
+- Right - Play 
+- Space bar - Skip Level Intro* 
 
 \* Before each level, you can watch the animation to have an idea of what to expect and plan ahead. 
 
