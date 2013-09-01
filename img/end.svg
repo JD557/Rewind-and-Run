@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="363"
+   height="142"
+   id="svg3988"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="end.svg"
+   inkscape:export-filename="/home/joao/CRAP/LudumDare27/proj/img/end.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3990" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="177.14286"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3993">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-910.36218)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-1.796875"
+       y="942.20593"
+       id="text3996"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3998"
+         x="-1.796875"
+         y="942.20593"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Merriweather;-inkscape-font-specification:Merriweather Bold Italic">The end</tspan><tspan
+         sodipodi:role="line"
+         x="-1.796875"
+         y="992.20593"
+         id="tspan4000"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Merriweather;-inkscape-font-specification:Merriweather Bold Italic" /><tspan
+         sodipodi:role="line"
+         x="-1.796875"
+         y="1042.2059"
+         id="tspan4002"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Merriweather;-inkscape-font-specification:Merriweather Bold Italic">Thanks for playing!</tspan></text>
+  </g>
+</svg>

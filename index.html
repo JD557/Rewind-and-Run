@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ludum Dare</title>
+	<style>
+		body {text-align:center;}
+	</style>
+	<link href='http://fonts.googleapis.com/css?family=Merriweather:400,900italic' rel='stylesheet' type='text/css'>
+</head>
+<body id="body">
+	<audio id="menuMusic" src="snd/menu.ogg" loop>
+		Unsupported Audio
+	</audio>
+	<audio id="levelMusic" src="snd/level.ogg" loop>
+		Unsupported Audio
+	</audio>
+	<audio id="tutorialMusic" src="snd/tut.ogg">
+		Unsupported Audio
+	</audio>
+	<script src="js/raphael-min.js"></script>
+	<!-- Compatibility fixes -->
+	<script>
+		if (!document.requestAnimationFrame) {
+			requestAnimationFrame=mozRequestAnimationFrame;
+		}
+	</script>	
+	<script src="js/render.js"></script>
+	<script src="js/character.js"></script>
+	<script src="js/level.js"></script>
+	<script src="js/logic.js"></script>
+	<script src="js/input.js"></script>
+	<script src="js/main.js"></script>
+</body>
+</html>

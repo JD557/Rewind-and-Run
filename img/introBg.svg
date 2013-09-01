@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6000"
+   height="1200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="introBg.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#bfdbbf"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="4333.5385"
+     inkscape:cy="668.89046"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,147.63782)">
+    <rect
+       style="fill:#bfdbbf;fill-opacity:1;stroke:none"
+       id="rect3971"
+       width="6000"
+       height="1200"
+       x="0"
+       y="-147.63782" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect3971-8"
+       width="3300"
+       height="1200"
+       x="0"
+       y="-147.63782" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+       x="4282.6602"
+       y="626.64789"
+       id="text3003"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3005"
+         x="4282.6602"
+         y="626.64789">Jump</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path3009"
+       sodipodi:sides="3"
+       sodipodi:cx="4454.2856"
+       sodipodi:cy="582.85712"
+       sodipodi:r1="63.116348"
+       sodipodi:r2="31.558174"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 4454.2856,519.74077 27.3302,47.33726 27.3302,47.33726 -54.6604,0 -54.6603,0 27.3302,-47.33726 z"
+       transform="matrix(0.45736983,0,0,0.45736983,2296.4005,404.33389)"
+       inkscape:transform-center-y="-7.2168779"
+       inkscape:transform-center-x="2.5068722e-05" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path3009-2"
+       sodipodi:sides="3"
+       sodipodi:cx="4454.2856"
+       sodipodi:cy="582.85712"
+       sodipodi:r1="63.116348"
+       sodipodi:r2="31.558174"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 4454.2856,519.74077 27.3302,47.33726 27.3302,47.33726 -54.6604,0 -54.6603,0 27.3302,-47.33726 z"
+       transform="matrix(-0.45736983,0,0,-0.45736983,6370.9122,998.7954)"
+       inkscape:transform-center-y="7.2169104"
+       inkscape:transform-center-x="6.0268665e-05" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path3009-2-8"
+       sodipodi:sides="3"
+       sodipodi:cx="4454.2856"
+       sodipodi:cy="582.85712"
+       sodipodi:r1="63.116348"
+       sodipodi:r2="31.558174"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 4454.2856,519.74077 27.3302,47.33726 27.3302,47.33726 -54.6604,0 -54.6603,0 27.3302,-47.33726 z"
+       transform="matrix(0,0.45736983,-0.45736983,0,4723.7242,-1301.1742)"
+       inkscape:transform-center-y="7.0368666e-05"
+       inkscape:transform-center-x="-7.216925" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path3009-2-89"
+       sodipodi:sides="3"
+       sodipodi:cx="4454.2856"
+       sodipodi:cy="582.85712"
+       sodipodi:r1="63.116348"
+       sodipodi:r2="31.558174"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 4454.2856,519.74077 27.3302,47.33726 27.3302,47.33726 -54.6604,0 -54.6603,0 27.3302,-47.33726 z"
+       transform="matrix(0,-0.45736983,0.45736983,0,3939.1331,2773.3375)"
+       inkscape:transform-center-y="-4.4879228e-05"
+       inkscape:transform-center-x="7.2169103" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+       x="4500.4326"
+       y="748.30579"
+       id="text3003-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3005-8"
+         x="4500.4326"
+         y="748.30579">Play</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+       x="4275.9219"
+       y="820.34473"
+       id="text3003-7-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3005-8-6"
+         x="4275.9219"
+         y="820.34473">Pause</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+       x="4008.5962"
+       y="753.19836"
+       id="text3003-7-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3005-8-3"
+         x="4008.5962"
+         y="753.19836">Rewind</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+       x="3348.5713"
+       y="-39.923538"
+       id="text3117"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="3348.5713"
+         y="-39.923538"
+         id="tspan3121"
+         style="font-size:56px;font-weight:bold;-inkscape-font-specification:Merriweather Bold">Welcome to Rewind &amp; Run</tspan><tspan
+         sodipodi:role="line"
+         x="3348.5713"
+         y="30.076462"
+         id="tspan3212"
+         style="font-size:56px;font-weight:bold;-inkscape-font-specification:Merriweather Bold" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+       x="4846.147"
+       y="779.68079"
+       id="text3003-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="4846.147"
+         y="779.68079"
+         id="tspan3186">Skip level intro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+       x="4646.6084"
+       y="53.24472"
+       id="text3117-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="4646.6084"
+         y="53.24472"
+         id="tspan3137-6" /><tspan
+         sodipodi:role="line"
+         x="4646.6084"
+         y="103.24472"
+         id="tspan3129-1">Each level is a 10 second animation that will play before</tspan><tspan
+         sodipodi:role="line"
+         x="4646.6084"
+         y="153.24472"
+         id="tspan3202-4">the level begins.</tspan><tspan
+         sodipodi:role="line"
+         x="4646.6084"
+         y="203.24472"
+         id="tspan3151-2">Use your time control abilities to control the animation</tspan><tspan
+         sodipodi:role="line"
+         x="4646.6084"
+         y="253.24472"
+         id="tspan3206-2">and reach the goal.</tspan><tspan
+         sodipodi:role="line"
+         x="4646.6084"
+         y="303.24472"
+         id="tspan3188-0" /><tspan
+         sodipodi:role="line"
+         x="4646.6084"
+         y="353.24472"
+         id="tspan3190-9">On your top right, there will always be a small icon, telling you</tspan><tspan
+         sodipodi:role="line"
+         x="4646.6084"
+         y="403.24472"
+         id="tspan3212-5">the direction of time and how far you are on the animation.</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3124"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+       transform="translate(0,-147.63782)"><flowRegion
+         id="flowRegion3126"><rect
+           id="rect3128"
+           width="800"
+           height="122.85714"
+           x="3525.7144"
+           y="580" /></flowRegion><flowPara
+         id="flowPara3130"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+       x="3383.5217"
+       y="-46.75528"
+       id="text3117-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="3383.5217"
+         y="-46.75528"
+         id="tspan3121-1" /><tspan
+         sodipodi:role="line"
+         x="3383.5217"
+         y="3.2447214"
+         id="tspan3219-0" /><tspan
+         sodipodi:role="line"
+         x="3383.5217"
+         y="53.244717"
+         id="tspan3125-0" /><tspan
+         sodipodi:role="line"
+         x="3383.5217"
+         y="103.24473"
+         id="tspan3133-5">In this game, your goal is to reach the end of each stage.</tspan><tspan
+         sodipodi:role="line"
+         x="3383.5217"
+         y="153.24472"
+         id="tspan3153-4" /><tspan
+         sodipodi:role="line"
+         x="3383.5217"
+         y="203.24472"
+         id="tspan3141-8">You <tspan
+   style="font-weight:bold;-inkscape-font-specification:Merriweather Bold"
+   id="tspan3163-3">cannot</tspan> control your speed, so you must avoid</tspan><tspan
+         sodipodi:role="line"
+         x="3383.5217"
+         y="253.24471"
+         id="tspan3161-0">obstacles by jumping, or you'll be squashed against</tspan><tspan
+         sodipodi:role="line"
+         x="3383.5217"
+         y="303.24472"
+         id="tspan3018-9">the left side of the screen.</tspan><tspan
+         sodipodi:role="line"
+         x="3383.5217"
+         y="353.24472"
+         id="tspan3212-8" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+       x="3348.5713"
+       y="552.28235"
+       id="text3117-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="3348.5713"
+         y="552.28235"
+         id="tspan3121-9"
+         style="font-size:56px;font-weight:bold;-inkscape-font-specification:Merriweather Bold">Controls:</tspan><tspan
+         sodipodi:role="line"
+         x="3348.5713"
+         y="622.28235"
+         id="tspan3212-3"
+         style="font-size:56px;font-weight:bold;-inkscape-font-specification:Merriweather Bold" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+       x="4889.4082"
+       y="695.54163"
+       id="text3324"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3326"
+         x="4889.4082"
+         y="695.54163">Space Bar</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3328"
+       width="460"
+       height="88.571426"
+       x="4757.1426"
+       y="640.93365" />
+  </g>
+</svg>
